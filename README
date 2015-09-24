@@ -3,3 +3,8 @@ ghc -o sudoku sudoku.hs
 
 To solve a sodoku
 ./sudoku example1.sudoku
+
+Based on the Functional Specification of Algorithms course in 2015 by Jan van Eijck
+
+Robert White
+ILLC, UvA
