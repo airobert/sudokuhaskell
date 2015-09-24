@@ -1,0 +1,5 @@
+To complie:
+ghc -o sudoku sudoku.hs
+
+To solve a sodoku
+./sudoku example1.sudoku
